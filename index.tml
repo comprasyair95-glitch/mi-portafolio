@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi primera página</title>
+    <style>
+    body {
+        background-color: #111827;
+        color: white;
+        font-family: Arial, sans-serif;
+        text-align: center;
+        padding: 50px;
+    }
+
+    h1 {
+        color: #22d3ee;
+        font-size: 40px;
+    }
+
+    h2 {
+        margin-top: 40px;
+        color: #38bdf8;
+    }
+
+    ul {
+        list-style: none;
+        padding: 0;
+    }
+
+    li {
+        background-color: #1f2937;
+        margin: 10px;
+        padding: 15px;
+        border-radius: 10px;
+    }
+    .container {
+    background-color: #0f172a;
+    max-width: 500px;
+    margin: auto;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 0 25px rgba(0, 0, 0, 0.5);
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+
+    <h1>Hola Amilcar 🚀</h1>
+    <p>Estoy empezando mi camino como programador.</p>
+
+    <h2>Mis metas</h2>
+    <ul>
+        <li>Ganar dinero online</li>
+        <li>Trabajar remoto</li>
+        <li>Ayudar a mi mamá</li>
+    </ul>
+
+</div>
+
+</body>
+</html>
